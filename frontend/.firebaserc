@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pixeltribe-699a9": {
+      "hosting": {
+        "frontend": [
+          "pixeltribe-699a9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pixeltribe-699a9"
+  }
+}
